@@ -1,0 +1,20 @@
+
+Créez un nouveau fichier CSV appelé output.csv
+Supposons que vous soyez un responsable RH et que vous deviez créer un fichier contenant les salaires de vos employés.
+ Nous allons lire dans un fichier CSV les noms des employés et les heures travaillées, puis créer un autre fichier CSV avec leurs 
+ salaires calculés.
+
+Les étapes sont les suivantes :
+
+Accédez à votre fichier main.py.
+
+Écrivez un script pour lire le contenu de notre fichier input.csv au format suivant :
+
+heures_travaillees.png
+Créez un nouveau fichier CSV appelé output.csv qui devrait avoir le format suivant :
+
+salaires.png
+Ici, les salaires sont calculés à l'aide de la formule heures_travaillées * 15.
+
+Assurez-vous d'avoir généré le fichier de sortie en exécutant python main.py, puis vérifiez que le contenu suit le bon format en 
+cliquant sur le fichier output.csv dans votre éditeur.
